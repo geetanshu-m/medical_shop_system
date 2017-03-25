@@ -1,0 +1,1 @@
+unzip build.zip then open the folder whole folder through netbeans
